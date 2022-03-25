@@ -1,0 +1,12 @@
+{
+	"name": "keksik-vk-api",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/lightalex/keksik-vk-api",
+	"author": "Light Alex",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"axios": "^0.26.1"
+	}
+}
